@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "echo no install needed",
+  "buildCommand": "echo static site",
+  "outputDirectory": "frontend",
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://HF_SPACE_HOST/api/:path*" },
+    { "source": "/static/:path*", "destination": "/:path*" }
+  ]
+}

@@ -1,0 +1,8 @@
+# secrets and local data — never commit
+backend/.env
+backend/var/
+__pycache__/
+*.pyc
+.claude/
+frontend/_shots/
+.vercel

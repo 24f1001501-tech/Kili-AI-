@@ -1,0 +1,285 @@
+{
+ "generated_at": "2026-10-24T17:22:12+00:00",
+ "source": "synthetic: Sarvam bulbul:v3 voices (shubh, kavitha, anand, priya, rahul, shruti); STT saaras:v3",
+ "clips": 1218,
+ "targets": {
+  "ta-zha": {
+   "transcript": {
+    "correct": {
+     "on_target": 17,
+     "substitution": 1,
+     "unclear": 12
+    },
+    "mixup": {
+     "on_target": 21,
+     "substitution_right": 34,
+     "substitution_other": 8,
+     "unclear": 27
+    }
+   },
+   "phonemes": {
+    "correct": {
+     "on_target": 0,
+     "substitution": 17,
+     "unclear": 43
+    },
+    "mixup": {
+     "on_target": 1,
+     "substitution_right": 65,
+     "substitution_other": 40,
+     "unclear": 74
+    }
+   },
+   "templates": {
+    "correct": {
+     "on_target": 38,
+     "substitution": 22,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 18,
+     "substitution_right": 108,
+     "substitution_other": 54,
+     "unclear": 0
+    }
+   }
+  },
+  "ta-La": {
+   "transcript": {
+    "correct": {
+     "on_target": 14,
+     "substitution": 12,
+     "unclear": 7
+    },
+    "mixup": {
+     "on_target": 15,
+     "substitution_right": 18,
+     "substitution_other": 1,
+     "unclear": 32
+    }
+   },
+   "phonemes": {
+    "correct": {
+     "on_target": 0,
+     "substitution": 38,
+     "unclear": 28
+    },
+    "mixup": {
+     "on_target": 0,
+     "substitution_right": 36,
+     "substitution_other": 18,
+     "unclear": 78
+    }
+   },
+   "templates": {
+    "correct": {
+     "on_target": 34,
+     "substitution": 32,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 36,
+     "substitution_right": 72,
+     "substitution_other": 24,
+     "unclear": 0
+    }
+   }
+  },
+  "ta-ra": {
+   "transcript": {
+    "correct": {
+     "on_target": 26,
+     "substitution": 0,
+     "unclear": 4
+    },
+    "mixup": {
+     "on_target": 14,
+     "substitution_right": 38,
+     "substitution_other": 1,
+     "unclear": 37
+    }
+   },
+   "phonemes": {
+    "correct": {
+     "on_target": 40,
+     "substitution": 1,
+     "unclear": 19
+    },
+    "mixup": {
+     "on_target": 11,
+     "substitution_right": 66,
+     "substitution_other": 13,
+     "unclear": 90
+    }
+   },
+   "templates": {
+    "correct": {
+     "on_target": 43,
+     "substitution": 17,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 23,
+     "substitution_right": 123,
+     "substitution_other": 34,
+     "unclear": 0
+    }
+   }
+  },
+  "hi-ra": {
+   "transcript": {
+    "correct": {
+     "on_target": 19,
+     "substitution": 0,
+     "unclear": 2
+    },
+    "mixup": {
+     "on_target": 3,
+     "substitution_right": 37,
+     "substitution_other": 1,
+     "unclear": 29
+    }
+   },
+   "phonemes": {
+    "correct": {
+     "on_target": 27,
+     "substitution": 2,
+     "unclear": 31
+    },
+    "mixup": {
+     "on_target": 10,
+     "substitution_right": 66,
+     "substitution_other": 6,
+     "unclear": 98
+    }
+   },
+   "templates": {
+    "correct": {
+     "on_target": 38,
+     "substitution": 22,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 11,
+     "substitution_right": 146,
+     "substitution_other": 23,
+     "unclear": 0
+    }
+   }
+  },
+  "hi-sha": {
+   "transcript": {
+    "correct": {
+     "on_target": 30,
+     "substitution": 0,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 11,
+     "substitution_right": 18,
+     "substitution_other": 0,
+     "unclear": 1
+    }
+   },
+   "phonemes": {
+    "correct": {
+     "on_target": 42,
+     "substitution": 2,
+     "unclear": 16
+    },
+    "mixup": {
+     "on_target": 0,
+     "substitution_right": 51,
+     "substitution_other": 0,
+     "unclear": 9
+    }
+   },
+   "templates": {
+    "correct": {
+     "on_target": 53,
+     "substitution": 7,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 5,
+     "substitution_right": 55,
+     "substitution_other": 0,
+     "unclear": 0
+    }
+   }
+  },
+  "hi-kha": {
+   "transcript": {
+    "correct": {
+     "on_target": 26,
+     "substitution": 1,
+     "unclear": 3
+    },
+    "mixup": {
+     "on_target": 17,
+     "substitution_right": 24,
+     "substitution_other": 4,
+     "unclear": 15
+    }
+   },
+   "phonemes": {
+    "correct": {
+     "on_target": 5,
+     "substitution": 36,
+     "unclear": 19
+    },
+    "mixup": {
+     "on_target": 0,
+     "substitution_right": 66,
+     "substitution_other": 3,
+     "unclear": 51
+    }
+   },
+   "templates": {
+    "correct": {
+     "on_target": 43,
+     "substitution": 17,
+     "unclear": 0
+    },
+    "mixup": {
+     "on_target": 12,
+     "substitution_right": 92,
+     "substitution_other": 16,
+     "unclear": 0
+    }
+   }
+  }
+ },
+ "fused": {
+  "ta-zha": {
+   "right": 72,
+   "wrong": 23,
+   "unsure": 145
+  },
+  "ta-La": {
+   "right": 0,
+   "wrong": 0,
+   "unsure": 198
+  },
+  "ta-ra": {
+   "right": 179,
+   "wrong": 59,
+   "unsure": 2
+  },
+  "hi-ra": {
+   "right": 192,
+   "wrong": 48,
+   "unsure": 0
+  },
+  "hi-sha": {
+   "right": 114,
+   "wrong": 6,
+   "unsure": 0
+  },
+  "hi-kha": {
+   "right": 134,
+   "wrong": 42,
+   "unsure": 4
+  }
+ }
+}

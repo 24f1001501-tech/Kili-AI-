@@ -1,0 +1,304 @@
+{
+  "_note": "Draft practice content. Every tip and step must be reviewed by a qualified speech-language therapist before real users rely on it.",
+  "levels": {
+    "1": "Sound on its own",
+    "2": "Short words",
+    "3": "Different positions",
+    "4": "Phrases",
+    "5": "Everyday sentences"
+  },
+  "targets": [
+    {
+      "id": "ta-zha",
+      "language": "ta-IN",
+      "letter": "ழ",
+      "roman": "zha",
+      "ipa": "ɻ",
+      "accept": [],
+      "accept_ipa": ["ɻ", "ʐ"],
+      "name": "ழ (zha)",
+      "diagram": "retroflex_approximant",
+      "summary": "ழ is made with the tongue tip curled back toward the roof of the mouth, without touching it. The air and voice flow smoothly over the tongue.",
+      "steps": [
+        "Open your mouth a little and keep your jaw relaxed.",
+        "Lift your tongue tip and curl it back, so the underside of the tip faces the roof of your mouth.",
+        "Bring it close to the roof of your mouth, but do not touch. Leave a small gap.",
+        "Let your voice flow through the gap. It should sound smooth and continuous, a little like a soft 'r'."
+      ],
+      "confusions": {
+        "ள": {"ipa": "ɭ", "diagram": "retroflex_lateral", "tip": "Your tongue may be touching the roof of your mouth. For ழ, keep the curled tip just below the roof — close, but not touching — and let the sound flow."},
+        "ல": {"ipa": "l", "diagram": "alveolar_lateral", "tip": "Your tongue tip may be flat against the ridge behind your top teeth. For ழ, curl the tip further back and do not let it touch."},
+        "ய": {"ipa": "j", "diagram": "palatal_approximant", "tip": "The middle of your tongue may be rising instead of the tip. Lift the tip itself and curl it backwards."}
+      },
+      "items": {
+        "1": [
+          {"text": "ழா", "roman": "zhaa", "meaning": "syllable"},
+          {"text": "ழி", "roman": "zhi", "meaning": "syllable"},
+          {"text": "ழு", "roman": "zhu", "meaning": "syllable"}
+        ],
+        "2": [
+          {"text": "மழை", "roman": "mazhai", "meaning": "rain"},
+          {"text": "பழம்", "roman": "pazham", "meaning": "fruit"},
+          {"text": "ஏழு", "roman": "ezhu", "meaning": "seven"},
+          {"text": "கோழி", "roman": "kozhi", "meaning": "hen"}
+        ],
+        "3": [
+          {"text": "தமிழ்", "roman": "tamizh", "meaning": "Tamil"},
+          {"text": "வாழைப்பழம்", "roman": "vaazhaippazham", "meaning": "banana"},
+          {"text": "கிழக்கு", "roman": "kizhakku", "meaning": "east"}
+        ],
+        "4": [
+          {"text": "மழை பெய்கிறது", "roman": "mazhai peygiradhu", "meaning": "It is raining"},
+          {"text": "நான் தமிழ் பேசுவேன்", "roman": "naan tamizh pesuven", "meaning": "I speak Tamil"},
+          {"text": "கோழி முட்டை இட்டது", "roman": "kozhi muttai ittadhu", "meaning": "The hen laid an egg"}
+        ],
+        "5": [
+          {"text": "எனக்கு மாம்பழம் பிடிக்கும்", "roman": "enakku maambazham pidikkum", "meaning": "I like mangoes"},
+          {"text": "வாழைப்பழம் மிகவும் சுவையாக இருக்கிறது", "roman": "vaazhaippazham migavum suvaiyaaga irukkiradhu", "meaning": "The banana is very tasty"}
+        ]
+      }
+    },
+    {
+      "id": "ta-La",
+      "language": "ta-IN",
+      "letter": "ள",
+      "roman": "La",
+      "ipa": "ɭ",
+      "accept": [],
+      "accept_ipa": ["ɭ"],
+      "name": "ள (La)",
+      "diagram": "retroflex_lateral",
+      "summary": "ள is made by curling the tongue tip back and pressing it against the roof of the mouth, while the air flows out around the sides of the tongue.",
+      "steps": [
+        "Curl your tongue tip back a little, like for ழ.",
+        "Press the tip against the roof of your mouth, just behind the bumpy ridge behind your top teeth.",
+        "Keep it touching and turn your voice on. The air flows out around the sides of your tongue.",
+        "Let go smoothly into the vowel that follows."
+      ],
+      "confusions": {
+        "ல": {"ipa": "l", "diagram": "alveolar_lateral", "tip": "Your tongue tip may be touching just behind your top teeth. For ள, curl it further back before it touches the roof of your mouth."},
+        "ழ": {"ipa": "ɻ", "diagram": "retroflex_approximant", "tip": "Your tongue may not be touching the roof. For ள, press the curled tip firmly against the roof of your mouth."}
+      },
+      "items": {
+        "1": [
+          {"text": "ளா", "roman": "Laa", "meaning": "syllable"},
+          {"text": "ளி", "roman": "Li", "meaning": "syllable"},
+          {"text": "ளு", "roman": "Lu", "meaning": "syllable"}
+        ],
+        "2": [
+          {"text": "பள்ளி", "roman": "paLLi", "meaning": "school"},
+          {"text": "வாள்", "roman": "vaaL", "meaning": "sword"},
+          {"text": "குளம்", "roman": "kuLam", "meaning": "pond"},
+          {"text": "தோள்", "roman": "thoL", "meaning": "shoulder"}
+        ],
+        "3": [
+          {"text": "வெள்ளை", "roman": "veLLai", "meaning": "white"},
+          {"text": "அவள்", "roman": "avaL", "meaning": "she"},
+          {"text": "விளக்கு", "roman": "viLakku", "meaning": "lamp"},
+          {"text": "மேளம்", "roman": "meLam", "meaning": "drum"}
+        ],
+        "4": [
+          {"text": "நான் பள்ளிக்கு போகிறேன்", "roman": "naan paLLikku pogiren", "meaning": "I am going to school"},
+          {"text": "அவள் வெள்ளை உடை அணிந்தாள்", "roman": "avaL veLLai udai aNindhaaL", "meaning": "She wore a white dress"},
+          {"text": "குளத்தில் மீன் உள்ளது", "roman": "kuLaththil meen uLLadhu", "meaning": "There is a fish in the pond"}
+        ],
+        "5": [
+          {"text": "தினமும் காலையில் பள்ளிக்கு நடந்து செல்வேன்", "roman": "dhinamum kaalaiyil paLLikku nadandhu selven", "meaning": "I walk to school every morning"}
+        ]
+      }
+    },
+    {
+      "id": "ta-ra",
+      "language": "ta-IN",
+      "letter": "ர",
+      "roman": "ra",
+      "ipa": "ɾ",
+      "accept": ["ற"],
+      "accept_ipa": ["ɾ", "r", "ɹ"],
+      "name": "ர (ra)",
+      "diagram": "alveolar_tap",
+      "summary": "ர is a quick, light tap: the tongue tip flicks once against the ridge just behind the upper teeth.",
+      "steps": [
+        "Rest your tongue tip behind your lower teeth.",
+        "Flick the tip up to touch the ridge just behind your upper teeth for a split second.",
+        "Let it drop straight away — one quick tap, with your voice on.",
+        "Practise a quick 'அர அர அர' to feel the tap."
+      ],
+      "confusions": {
+        "ல": {"ipa": "l", "diagram": "alveolar_lateral", "tip": "Your tongue may be staying pressed on the ridge. For ர, make it a quick flick: touch and let go immediately."},
+        "ய": {"ipa": "j", "diagram": "palatal_approximant", "tip": "The middle of your tongue may be rising instead of the tip. Use the tip for one quick tap on the ridge."},
+        "ழ": {"ipa": "ɻ", "diagram": "retroflex_approximant", "tip": "Your tongue tip may be curling back. For ர, tap the ridge just behind your upper teeth instead."}
+      },
+      "items": {
+        "1": [
+          {"text": "ரா", "roman": "raa", "meaning": "syllable"},
+          {"text": "ரி", "roman": "ri", "meaning": "syllable"},
+          {"text": "ரு", "roman": "ru", "meaning": "syllable"}
+        ],
+        "2": [
+          {"text": "மரம்", "roman": "maram", "meaning": "tree"},
+          {"text": "ஊர்", "roman": "oor", "meaning": "town"},
+          {"text": "அரிசி", "roman": "arisi", "meaning": "rice"},
+          {"text": "கரை", "roman": "karai", "meaning": "shore"}
+        ],
+        "3": [
+          {"text": "ரோஜா", "roman": "roja", "meaning": "rose"},
+          {"text": "பெரிய", "roman": "periya", "meaning": "big"},
+          {"text": "நேரம்", "roman": "neram", "meaning": "time"}
+        ],
+        "4": [
+          {"text": "இந்த மரம் பெரியது", "roman": "indha maram periyadhu", "meaning": "This tree is big"},
+          {"text": "நேரம் ஆகிவிட்டது", "roman": "neram aagivittadhu", "meaning": "It is getting late"},
+          {"text": "ரோஜா பூ அழகாக இருக்கிறது", "roman": "roja poo azhagaaga irukkiradhu", "meaning": "The rose is beautiful"}
+        ],
+        "5": [
+          {"text": "என் ஊரில் பெரிய மரங்கள் இருக்கின்றன", "roman": "en ooril periya marangaL irukkindrana", "meaning": "There are big trees in my town"}
+        ]
+      }
+    },
+    {
+      "id": "hi-ra",
+      "language": "hi-IN",
+      "letter": "र",
+      "roman": "ra",
+      "ipa": "ɾ",
+      "accept": [],
+      "accept_ipa": ["ɾ", "r", "ɹ"],
+      "name": "र (ra)",
+      "diagram": "alveolar_tap",
+      "summary": "र is a quick, light tap: the tongue tip flicks once against the ridge just behind the upper teeth.",
+      "steps": [
+        "Rest your tongue tip behind your lower teeth.",
+        "Flick the tip up to touch the ridge just behind your upper teeth for a split second.",
+        "Let it drop straight away — one quick tap, with your voice on.",
+        "Practise a quick 'अरा अरा अरा' to feel the tap."
+      ],
+      "confusions": {
+        "ल": {"ipa": "l", "diagram": "alveolar_lateral", "tip": "Your tongue may be staying pressed on the ridge. For र, make it a quick flick: touch and let go immediately."},
+        "य": {"ipa": "j", "diagram": "palatal_approximant", "tip": "The middle of your tongue may be rising instead of the tip. Use the tip for one quick tap on the ridge."},
+        "ड़": {"ipa": "ɽ", "diagram": "retroflex_lateral", "tip": "Your tongue tip may be curling back before it flicks. For र, tap the ridge right behind your upper teeth without curling."}
+      },
+      "items": {
+        "1": [
+          {"text": "रा", "roman": "raa", "meaning": "syllable"},
+          {"text": "री", "roman": "ree", "meaning": "syllable"},
+          {"text": "रू", "roman": "roo", "meaning": "syllable"}
+        ],
+        "2": [
+          {"text": "रेल", "roman": "rel", "meaning": "train"},
+          {"text": "घर", "roman": "ghar", "meaning": "home"},
+          {"text": "राजा", "roman": "raaja", "meaning": "king"},
+          {"text": "रोटी", "roman": "roti", "meaning": "bread"}
+        ],
+        "3": [
+          {"text": "बारिश", "roman": "baarish", "meaning": "rain"},
+          {"text": "गरम", "roman": "garam", "meaning": "hot"},
+          {"text": "तारा", "roman": "taara", "meaning": "star"}
+        ],
+        "4": [
+          {"text": "राजा घर गया", "roman": "raaja ghar gaya", "meaning": "The king went home"},
+          {"text": "बारिश हो रही है", "roman": "baarish ho rahi hai", "meaning": "It is raining"},
+          {"text": "रोटी गरम है", "roman": "roti garam hai", "meaning": "The bread is hot"}
+        ],
+        "5": [
+          {"text": "आज रात आसमान में बहुत तारे हैं", "roman": "aaj raat aasmaan mein bahut taare hain", "meaning": "There are many stars in the sky tonight"}
+        ]
+      }
+    },
+    {
+      "id": "hi-sha",
+      "language": "hi-IN",
+      "letter": "श",
+      "roman": "sha",
+      "ipa": "ʃ",
+      "accept": ["ष"],
+      "accept_ipa": ["ʃ", "ʂ", "ɕ"],
+      "name": "श (sha)",
+      "diagram": "postalveolar_fricative",
+      "summary": "श is a 'sh' sound: the front of the tongue rises just behind the ridge, the lips push slightly forward, and a steady stream of air flows out.",
+      "steps": [
+        "Bring your teeth close together.",
+        "Round your lips slightly and push them a little forward.",
+        "Raise the front of your tongue toward the area just behind the ridge, without touching.",
+        "Blow a steady stream of air: 'shhh'."
+      ],
+      "confusions": {
+        "स": {"ipa": "s", "diagram": "alveolar_fricative", "tip": "That came out closer to स (s). Pull your tongue slightly back from your teeth, round your lips a little, and blow: 'shhh'."}
+      },
+      "items": {
+        "1": [
+          {"text": "शा", "roman": "shaa", "meaning": "syllable"},
+          {"text": "शी", "roman": "shee", "meaning": "syllable"},
+          {"text": "शू", "roman": "shoo", "meaning": "syllable"}
+        ],
+        "2": [
+          {"text": "शेर", "roman": "sher", "meaning": "lion"},
+          {"text": "शाम", "roman": "shaam", "meaning": "evening"},
+          {"text": "देश", "roman": "desh", "meaning": "country"},
+          {"text": "शहर", "roman": "shahar", "meaning": "city"}
+        ],
+        "3": [
+          {"text": "आशा", "roman": "aasha", "meaning": "hope"},
+          {"text": "पशु", "roman": "pashu", "meaning": "animal"},
+          {"text": "निशान", "roman": "nishaan", "meaning": "mark"}
+        ],
+        "4": [
+          {"text": "शाम को शेर आया", "roman": "shaam ko sher aaya", "meaning": "The lion came in the evening"},
+          {"text": "मेरा देश सुंदर है", "roman": "mera desh sundar hai", "meaning": "My country is beautiful"},
+          {"text": "शहर में बारिश हुई", "roman": "shahar mein baarish hui", "meaning": "It rained in the city"}
+        ],
+        "5": [
+          {"text": "शनिवार की शाम हम शहर घूमने गए", "roman": "shanivaar ki shaam ham shahar ghoomne gaye", "meaning": "On Saturday evening we went around the city"}
+        ]
+      }
+    },
+    {
+      "id": "hi-kha",
+      "language": "hi-IN",
+      "letter": "ख",
+      "roman": "kha",
+      "ipa": "kʰ",
+      "accept": [],
+      "accept_ipa": ["kʰ", "x"],
+      "name": "ख (kha)",
+      "diagram": "aspirated_velar",
+      "summary": "ख is क with a puff of air. The back of the tongue touches the soft back part of the roof of the mouth, then lets go with a breath.",
+      "steps": [
+        "Raise the back of your tongue so it touches the soft back part of the roof of your mouth.",
+        "Let a little air build up behind it.",
+        "Let go with a strong puff of air. Hold your palm in front of your mouth to feel it.",
+        "Say क, then ख, and feel the difference on your palm."
+      ],
+      "confusions": {
+        "क": {"ipa": "k", "diagram": "velar_stop", "tip": "We heard क — the puff of air may be missing. Hold your palm in front of your mouth and let go with a strong breath of air."},
+        "ग": {"ipa": "ɡ", "diagram": "velar_stop", "tip": "Your voice may be switching on too early. Keep your voice off at the start and let go with a puff of air."}
+      },
+      "items": {
+        "1": [
+          {"text": "खा", "roman": "khaa", "meaning": "syllable"},
+          {"text": "खी", "roman": "khee", "meaning": "syllable"},
+          {"text": "खू", "roman": "khoo", "meaning": "syllable"}
+        ],
+        "2": [
+          {"text": "खाना", "roman": "khaana", "meaning": "food"},
+          {"text": "खेल", "roman": "khel", "meaning": "game"},
+          {"text": "आँख", "roman": "aankh", "meaning": "eye"},
+          {"text": "सुख", "roman": "sukh", "meaning": "happiness"}
+        ],
+        "3": [
+          {"text": "लिखना", "roman": "likhna", "meaning": "to write"},
+          {"text": "भूख", "roman": "bhookh", "meaning": "hunger"},
+          {"text": "रखना", "roman": "rakhna", "meaning": "to keep"}
+        ],
+        "4": [
+          {"text": "खाना खा लो", "roman": "khaana kha lo", "meaning": "Eat your food"},
+          {"text": "मुझे भूख लगी है", "roman": "mujhe bhookh lagi hai", "meaning": "I am hungry"},
+          {"text": "बच्चे खेल रहे हैं", "roman": "bachche khel rahe hain", "meaning": "The children are playing"}
+        ],
+        "5": [
+          {"text": "खिड़की खोलकर ताज़ी हवा आने दो", "roman": "khidki kholkar taazi hawa aane do", "meaning": "Open the window and let fresh air in"}
+        ]
+      }
+    }
+  ]
+}

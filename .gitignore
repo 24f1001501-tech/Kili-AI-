@@ -6,3 +6,6 @@ __pycache__/
 .claude/
 frontend/_shots/
 .vercel
+deploy/gcp_project.txt
+deploy/cloudrun_url.txt
+deploy/space_host.txt

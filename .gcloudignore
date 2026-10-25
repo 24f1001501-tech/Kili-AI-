@@ -1,0 +1,6 @@
+#!include:.gitignore
+docs/
+dev/
+deploy/
+*.docx
+.git
